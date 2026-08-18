@@ -240,6 +240,6 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2472,50:0a1128,100:000000&height=120&section=footer"/>
 
-<sub>⚡ Feito com dedicação por **Guilherme Karnopp** — Joinville, SC | 2026</sub>
+<sub> Feito com dedicação por **Guilherme Karnopp** — Joinville, SC | 2026</sub>
 
 </div>
