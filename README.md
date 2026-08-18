@@ -35,12 +35,12 @@ guilherme.karnopp:
   hobbies: ["Tecnologia", "Praia"]
 ```
 
-Olá! 👋 Sou **Guilherme**, estudante de Engenharia de Software em transição para a área de tecnologia, com foco em **desenvolvimento e automação de processos**.
+Olá!  Sou **Guilherme**, estudante de Engenharia de Software em transição para a área de tecnologia, com foco em **desenvolvimento e automação de processos**.
 
-- 🏢 Atuo hoje na área administrativa da **Quimidrol**, aplicando diariamente organização, resolução de problemas e suporte proativo à equipe.
-- 🎓 Na faculdade, foco na aplicação prática integrando **Front-end, Back-end e Banco de Dados**, com histórico sólido de entregas dentro do prazo.
-- 🚀 Meu objetivo é unir minha experiência corporativa com aprofundamento técnico em **Nuvem, Python e Automação (RPA)**, contribuindo com projetos desafiadores em Joinville ou em cenários globais.
-- 🔭 Tecnologias em foco: `IA` · `Python` · `Java` · `SQL` · `NoSQL` · `Cloud` · `Power Automate` · `UiPath`.
+-  Atuo hoje na área administrativa da **Quimidrol**, aplicando diariamente organização, resolução de problemas e suporte proativo à equipe.
+-  Na faculdade, foco na aplicação prática integrando **Front-end, Back-end e Banco de Dados**, com histórico sólido de entregas dentro do prazo.
+-  Meu objetivo é unir minha experiência corporativa com aprofundamento técnico em **Nuvem, Python e Automação (RPA)**, contribuindo com projetos desafiadores em Joinville ou em cenários globais.
+-  Tecnologias em foco: `IA` · `Python` · `Java` · `SQL` · `NoSQL` · `Cloud` · `Power Automate` · `UiPath`.
 
 <br clear="right"/>
 
@@ -176,7 +176,6 @@ guilherme@joinville:~$ echo $STATUS
 
 </div>
 
-> 🐍 **Como ativar a animação da cobrinha:** crie o arquivo `.github/workflows/snake.yml` no repositório especial `GUILHERMEKARNOPP/GUILHERMEKARNOPP` com o conteúdo abaixo. O GitHub Actions vai gerar o SVG automaticamente todos os dias.
 
 <details>
 <summary>📄 Ver código do workflow (snake.yml)</summary>
